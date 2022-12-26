@@ -6,15 +6,19 @@ font-size: 32;
 text-align: center;
 font-weight: bold;
 }
+/* doing this one external */
 
 /* p {
     color: white;
     background-color: green;
     font size: 18;
 
+    will make this one internal
 } */
 
 /* button {
     background-color: orange;
     font-size: 18;
+
+    will do this one inline
 } */
