@@ -6,3 +6,10 @@ font-size: 32;
 text-align: center;
 font-weight: bold;
 }
+
+p {
+    color: white;
+    background-color: green;
+    font size: 18;
+
+}
