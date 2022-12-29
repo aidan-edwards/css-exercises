@@ -8,7 +8,7 @@ body{
   font-weight: 800;
 }
 
-.small-para {
+#small-para {
   font-size: 14px;
   font-weight: 800;
 }
@@ -21,7 +21,7 @@ body{
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 .button {
   background-color: rgb(255, 255, 255);
