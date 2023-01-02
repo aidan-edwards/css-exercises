@@ -24,6 +24,8 @@ body {
 
 .button-container {
   background: #e3f4ff;
+  margin: auto;
+  width: 50%;
 }
 
 button {
