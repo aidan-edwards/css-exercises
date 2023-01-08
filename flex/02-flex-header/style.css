@@ -20,6 +20,12 @@ ul {
   flex-flow: row wrap;
 }
 
+.right-links{
+
+}
+.left-links{
+
+}
 a {
   font-size: 22px;
   background: white;
