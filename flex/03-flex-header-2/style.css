@@ -4,11 +4,15 @@ you'll learn about it later. */
 
 .left-side{
 display: flex;
+justify-content: flex-start;
+flex-direction: column;
 }
 
 
 .right-side{
 display: flex;
+justify-content: center;
+align-items: flex-start;
 }
 
 
